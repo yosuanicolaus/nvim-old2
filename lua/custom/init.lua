@@ -1,4 +1,4 @@
-require("lua/custom/neovide")
+require("custom.neovide")
 
 -- local autocmd = vim.api.nvim_create_autocmd
 
