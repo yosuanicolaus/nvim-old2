@@ -10,11 +10,12 @@ M.treesitter = {
     "c",
     "markdown",
     "markdown_inline",
+    "rust",
   },
   indent = {
     enable = true,
     disable = {
-      "python"
+      "python",
     },
   },
 }
@@ -30,7 +31,10 @@ M.mason = {
     "html-lsp",
     "typescript-language-server",
     "deno",
-    "prettier"
+    "prettier",
+
+    -- 230423
+    "rust",
   },
 }
 
