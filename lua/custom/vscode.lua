@@ -1,1 +1,1 @@
-vim.o.clipboard = 'unnamedplus'
+vim.o.clipboard = "unnamedplus"
