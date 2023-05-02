@@ -44,6 +44,12 @@ M.nvimtree = {
     enable = true,
   },
 
+  -- 230502 - add relative number for easier navigation
+  view = {
+    number = true,
+    relativenumber = true,
+  },
+
   renderer = {
     highlight_git = true,
     icons = {
