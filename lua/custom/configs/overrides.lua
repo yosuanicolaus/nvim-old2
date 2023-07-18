@@ -11,6 +11,7 @@ M.treesitter = {
     "markdown",
     "markdown_inline",
     "rust",
+    "python",
   },
   indent = {
     enable = true,
@@ -33,8 +34,12 @@ M.mason = {
     "deno",
     "prettier",
 
+    -- TODO - fix this - :Mason, then add everything here
+    -- only useful for when installing nvim on new laptop
     -- 230423
-    "rust",
+    -- "rust",
+    -- 230512
+    -- "python",
   },
 }
 

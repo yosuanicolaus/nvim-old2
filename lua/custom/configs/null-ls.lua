@@ -20,6 +20,9 @@ local sources = {
 
   -- rust (2300423)
   b.formatting.rustfmt,
+
+  -- python (230512)
+  b.formatting.autopep8,
 }
 
 -- 230423 format on save
